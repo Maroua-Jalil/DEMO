@@ -5,8 +5,8 @@ lorem ipsum
 true   
 
 
-<<<<<<< HEAD
 some line for update file after apdating in very bad
-=======
-some line for very bad branch
->>>>>>> very-bad
+
+
+
+I will create sommething
